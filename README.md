@@ -20,6 +20,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmerFarooqJillani&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmerFarooqJillani&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmerFarooqJillani&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmerFarooqJillani&theme=nord_bright)
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmerFarooqJillani&theme=nord_bright&exclude={exclude}) -->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmerFarooqJillani&theme=nord_bright&exclude={exclude}) -->
